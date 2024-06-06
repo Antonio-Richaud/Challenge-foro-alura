@@ -24,7 +24,7 @@ Este proyecto es una API REST para el foro de Alura, construida utilizando Sprin
 
 2. Navega al directorio del proyecto:
     ```bash
-    cd foro-alura
+    cd Challenge-foro-alura
     ```
 
 3. Configura la base de datos MySQL. Crea una base de datos y actualiza las credenciales en el archivo `application.properties`:
