@@ -12,7 +12,7 @@
 	<artifactId>api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>api</name>
-	<description>API REST alura forum</description>
+	<description>API REST Foro Alura</description>
 	<properties>
 		<java.version>20</java.version>
 	</properties>
