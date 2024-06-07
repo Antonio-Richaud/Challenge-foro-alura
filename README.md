@@ -2,6 +2,8 @@
 
 Este proyecto es una API REST para el foro de Alura, construida utilizando Spring Boot.
 
+![Insignia](./imagenes/Badge-Spring.png)
+
 ## Requisitos
 
 - Java 20
